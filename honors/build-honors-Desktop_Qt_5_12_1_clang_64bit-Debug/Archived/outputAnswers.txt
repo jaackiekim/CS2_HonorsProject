@@ -1,0 +1,644 @@
+<dict>
+<key>text</key>
+<string>﻿1570 E. Colorado Blvd. Pasadena, CA 91106</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_﻿1570</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The office phone number is (626) 585-7395 Mon to Thurs : 8:00 AM to 6:30 PM. Fri : 8:00 AM to 4:00 PM.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_The o</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It’s located in the L building, room 113.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_It’s </string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Come to the Admissions & Records office in L-113 for helps with applying to PCC, registering for classes, submitting a petition or accessing your student records!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Come </string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It’s located in the L building, room 114.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_It’s </string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The Office of Financial Aid and our knowledgeable advisers are here to help you find options to make your education affordable.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_The O</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>We have BOGW Waiver(California Promise) for the free tuition, grants, scholarships, student loans, and work-study to help you succeed!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_We ha</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>You can go to our PCC Website: https://pasadena.edu/ Click the “Admissions & Aid” section on the top; then, hit “Apply now” for more information.  If you have more questions, please come to Admission office in L-114 for more helps!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_You c</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>A high school graduate.  OR Not a high school graduate but over 18 years of age. OR A 12th-grade-or-below student who is recommended by the school principal for advanced academic or vocational classes</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_A hig</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It depends on your residential status in California. For more information, please come to our Admission office in L-113. Or, please go to PCC website for more info: https://pasadena.edu/admissions-and-aid/admissions-and-records/fees-and-tuition/index.php</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_It de</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I feel great! I am glad that you are here: )</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_I fee</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It’s mostly Sunny(Enjoy the sunshine!), but it will be raining sometimes.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_It’s </string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I’m a Computer Science counselor, and I am here to answer your questions about PCC! Go Lancers!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_I’m a</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The phone number is (626) 585-7401 Fax: (626) 585-7936 M - Th, 8 am - 6:30 pm  Friday, 8 am - 4 pm</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_The p</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>One piece of advice I would give to you for when you start looking at colleges is to be sure to look over and familiarize yourself with their admissions requirements.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_One p</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Colleges not only look at your grades, though ideally you would want to have a GPA around 3.4, they also look at the extra-curricular activities that you participate in</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Colle</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Some of the tips I would give you for college are: Get to know your professors and talk to them! Do no procrastinate!!  Start your homeworks early and make a lot of friends : P</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Some </string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I would recommend that you study in the library, it is very quiet, there are plenty of seats, and there are restrooms on each floor!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_I wou</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Some of my favorite study spots are at the library, the Math success center in R building, and the wifi-lounge by the cafeteria.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Some </string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>We have Learning assistance Center in D-300, Computer-Learning in D-101,103,W-102, Math-Success center in R-406, Writing support centers in C-345, D-306, Social sciences learning center C-315, Speech center in D-302,  STEM Success centers in SV-23,24,25 and Music Labs in CA-002 to Help you out: D</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_We ha</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The classes that you should take from the computer science department are: CS02, CS3A, CS03B or CS03C, CS 08</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_The c</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>If you would like to apply for scholarships, you can either go online to https://pasadena.edu/foundation/applying-for-a-scholarship.php or visit the financial aid office in room L-114.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_If yo</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Recent graduates have been accepted to many prestigious colleges such as UC Irvine, Syracuse University, Mt. Saint Mary's, Berkeley, Dartmouth, etcetera. You can be accepted too!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Recen</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>My favorite color is blue!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_My fa</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>My favorite food is seafood! Especially sockeye salmon!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_My fa</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It usually take 2 or 3 years to be transfered . Fight on!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_It us</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>You need to complete the math classes and GE requirements, and CS classes that are required by the universities you choose</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_You n</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>To succeed in the discipline, an aspiring student must seek to obtain a strong high school background in math and science, build strategic-thinking skills, develop strong oral and written communication skills and develop her/his ability to work in a team environment.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_To su</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Go for it! Everyone can be successful in Computer Science, including WOMEN! But it still depend on whether you like it or not : D</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Go fo</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Computer Science is the study of computers and computational systems.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Compu</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>There are many different languages are used in computer science like c++, c, java, python etc.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_There</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>There are many opportunities, like software engineer, computer game designer, etc. Average annual salary for a four-years university computer science graduated student is 84 thousands dollars.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_There</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Computer engineering is a discipline that integrates several fields of computer science and electronics engineering required to develop computer hardware and software.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Compu</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>You need to MATH 007A to take CS002 class. Other than that, you are not required to take any specific courses before taking CS02. However, there is a CS01 Class that can help you be more familiar with Computer Science before you decide to take CS02.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_You n</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>To be more prepared for the CS classes, logical mind, good math knowledge, and good communication skills with others are recommended!! :P</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_To be</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Pasadena city college PCC is the best community college in Los Angeles.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Pasad</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Generally, you will need to finish a sequence of Calculus classes( Ex: Math 5A,5B,5C..etc). If you are not able take calculus, then you can take trigonometry and other pre-calculus courses in PCC.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Gener</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Our Math & Computer Science Division office is located in R building, room 322. M - Th, 8 am - 7:15 pm F, 8 am - 4:30 pm</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Our M</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Our Contact number is: 626) 585-7251 M - Th, 8 am - 6:30 pm F, 8 am- 4 pm</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Our C</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>All professor are good, and they will help you understand Computer Science!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_All p</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>In this class, you can learn about Problem-solving through structured programming of algorithms on computers using the basics of the C++ object-oriented language. Includes variables, expressions, input/output (I/O), branches, looping constructs, functions, argument passing, single and double dimensional arrays, strings, file I/O, C++ vectors, software design principles, testing, and debugging techniques.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_In th</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I will say that, try to start thinking about the Algorithms behind the program first and divide specific tasks into small modules before you actually code on the computer.  That way, you will spend much less time on debugging after you finishing coding.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_I wil</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>We have Honors Program, MESA, Pathway, She.codes Club, Computer Science Club….etc. These are great programs that can help you succeed in Computer Science.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_We ha</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Python is a good programing language for beginners. It is mostly for AI and Development of Applications.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Pytho</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Most successful Computer Science students have demonstrated the ability to be flexible and adaptable (i.e. they MORPH well): P</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Most </string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It depends on your personal preferences and the university that you want to transfer to. Be aware of that some computer science courses will not count toward a Computer Science major for some colleges because they are not part of the degree requirements.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_It de</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:25:45Z</date>
+</dict>

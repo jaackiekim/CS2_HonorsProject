@@ -1,0 +1,2956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist>
+<dict>
+<key>question_format</key>
+<string>edu.usc.ict.npc.editor.model.processor.text.TextProcessorProvider</string>
+<key>recordingQuestions</key>
+<false/>
+<key>reportGeneratorProvider</key>
+<dict>
+<key>class</key>
+<string>edu.usc.ict.npc.editor.model.report.ReportGeneratorProvider</string>
+</dict>
+<key>trainingOnTestQuestions</key>
+<false/>
+<key>questions</key>
+<array>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:02:32Z</date>
+<key>ID</key>
+<string>Anybody-1</string>
+<key>text</key>
+<string>What is your name?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:02:39Z</date>
+<key>ID</key>
+<string>Anybody-2</string>
+<key>text</key>
+<string>What is your name, sir?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-28T11:35:57Z</date>
+<key>ID</key>
+<string>Anybody-13</string>
+<key>text</key>
+<string>What's your name?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:02:56Z</date>
+<key>ID</key>
+<string>Anybody-4</string>
+<key>text</key>
+<string>How are you?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:03:14Z</date>
+<key>ID</key>
+<string>Anybody-7</string>
+<key>text</key>
+<string>How are you doing?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-28T10:59:01Z</date>
+<key>ID</key>
+<string>Anybody-3</string>
+<key>text</key>
+<string>How are you doing today?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:03:03Z</date>
+<key>ID</key>
+<string>Anybody-5</string>
+<key>text</key>
+<string>What's up?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:03:08Z</date>
+<key>ID</key>
+<string>Anybody-6</string>
+<key>text</key>
+<string>What's happening?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:04:25Z</date>
+<key>ID</key>
+<string>Anybody-8</string>
+<key>text</key>
+<string>Good bye.</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:04:31Z</date>
+<key>ID</key>
+<string>Anybody-9</string>
+<key>text</key>
+<string>Goodbye.</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-12T17:04:37Z</date>
+<key>ID</key>
+<string>Anybody-10</string>
+<key>text</key>
+<string>Bye.</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-21T17:08:21Z</date>
+<key>ID</key>
+<string>Anybody-11</string>
+<key>text</key>
+<string>can you repeat that</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-21T17:13:05Z</date>
+<key>ID</key>
+<string>Anybody-12</string>
+<key>text</key>
+<string>say that again</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-13</string>
+<key>text</key>
+<string>﻿Where is PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-14</string>
+<key>text</key>
+<string>Where is Pasadena City College?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-15</string>
+<key>text</key>
+<string>Where is this college located?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-16</string>
+<key>text</key>
+<string>What is the current address?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-17</string>
+<key>text</key>
+<string>What's your address?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-18</string>
+<key>text</key>
+<string>How can I contact the admission office at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-19</string>
+<key>text</key>
+<string>Where is PCC admission office?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-20</string>
+<key>text</key>
+<string>Where is the admin office?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-21</string>
+<key>text</key>
+<string>Where is the admissions office?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-22</string>
+<key>text</key>
+<string>Where is the admission office located?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-23</string>
+<key>text</key>
+<string>How do I get to the admissions office?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-24</string>
+<key>text</key>
+<string>What supports can I get from admission office?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-25</string>
+<key>text</key>
+<string>Where can I register for classes ?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-26</string>
+<key>text</key>
+<string>Where is financial aid office at PCC ?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-27</string>
+<key>text</key>
+<string>What supports can I get from financial aid offices?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-28</string>
+<key>text</key>
+<string>What kind of financial aids can I get at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-29</string>
+<key>text</key>
+<string>How can I apply to PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-30</string>
+<key>text</key>
+<string>What are the admission requirements for PCC ?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-31</string>
+<key>text</key>
+<string>How much is the tuition fee at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-32</string>
+<key>text</key>
+<string>How much does it cost to study at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-34</string>
+<key>text</key>
+<string>How is the weather at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-35</string>
+<key>text</key>
+<string>Who are you?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-36</string>
+<key>text</key>
+<string>How can I contact the financial aid office at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-37</string>
+<key>text</key>
+<string>What is your advices for me at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-38</string>
+<key>text</key>
+<string>How can I transfer to a 4-years university?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-39</string>
+<key>text</key>
+<string>What is your advices for the classes at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-40</string>
+<key>text</key>
+<string>Where can I study and do my homework?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-41</string>
+<key>text</key>
+<string>Where can I do group studying?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-42</string>
+<key>text</key>
+<string>Where can I get free tutoring sections?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-43</string>
+<key>text</key>
+<string>What are some CS(Computer Science) classes that I can take at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-44</string>
+<key>text</key>
+<string>How can I apply for scholarships?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-45</string>
+<key>text</key>
+<string>What is your favorite color?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-46</string>
+<key>text</key>
+<string>What is your favorite food?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-47</string>
+<key>text</key>
+<string>How long does it take for me to transfer?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-48</string>
+<key>text</key>
+<string>How can I transfer as a Computer Science Major?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-49</string>
+<key>text</key>
+<string>How can I succeed in Computer Science?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-50</string>
+<key>text</key>
+<string>Should I study Computer Science?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-51</string>
+<key>text</key>
+<string>What is Computer Science?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-52</string>
+<key>text</key>
+<string>What are some programming languages in Computer Science?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-53</string>
+<key>text</key>
+<string>What are some job opportunities for Computer Science?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-54</string>
+<key>text</key>
+<string>What is the difference between Computer Science and Computer Engineering?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-55</string>
+<key>text</key>
+<string>What are the requirements for taking CS02?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-56</string>
+<key>text</key>
+<string>What knowledge do I need to have before taking CS classes?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-57</string>
+<key>text</key>
+<string>What is PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-58</string>
+<key>text</key>
+<string>What math courses do I need to take for Computer Science major?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-59</string>
+<key>text</key>
+<string>Where is Computer Science Department?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-60</string>
+<key>text</key>
+<string>How can I contact Computer Science Department?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-61</string>
+<key>text</key>
+<string>How is Computer Science Professor at PCC?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-62</string>
+<key>text</key>
+<string>What can I learn from CS002?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-63</string>
+<key>text</key>
+<string>What is CS002?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-64</string>
+<key>text</key>
+<string>What are some tips for coding?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-65</string>
+<key>text</key>
+<string>What are some good programs or Clubs for Computer Science students?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-66</string>
+<key>text</key>
+<string>What is Python?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-67</string>
+<key>text</key>
+<string>What are some facts about Computer Science students?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-68</string>
+<key>text</key>
+<string>Should I take CS courses or CIS courses?</string>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2019-05-24T15:15:49Z</date>
+<key>ID</key>
+<string>Anybody-69</string>
+<key>text</key>
+<string>What CS courses do I need to take for Computer Science major?</string>
+</dict>
+</array>
+<key>answers</key>
+<array>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-14T18:36:51Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+</array>
+<key>ID</key>
+<string>brad_fullname</string>
+<key>text</key>
+<string>My full name is Brad Matthew Smith</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-14T18:37:08Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+</array>
+<key>ID</key>
+<string>brad_name</string>
+<key>text</key>
+<string>My name's Brad Smith.</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-14T18:40:03Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+</array>
+<key>ID</key>
+<string>brad_hibrad</string>
+<key>text</key>
+<string>Hi, I am Brad, a virtual human.</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-14T18:40:38Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+</array>
+<key>ID</key>
+<string>brad_quitewell</string>
+<key>text</key>
+<string>Quite well, thank you.</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-14T18:40:55Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+</array>
+<key>ID</key>
+<string>brad_good</string>
+<key>text</key>
+<string>I am good.</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-14T18:43:01Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+</array>
+<key>ID</key>
+<string>brad_goodbye</string>
+<key>text</key>
+<string>Good bye.</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-14T18:43:22Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+</array>
+<key>ID</key>
+<string>brad_haveagoodday</string>
+<key>text</key>
+<string>Have a good day.</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-21T15:37:10Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+<integer>13</integer>
+</array>
+<key>ID</key>
+<string>brad_sorrycatch</string>
+<key>text</key>
+<string>Sorry, I didn't catch that.</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-21T17:04:34Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+<integer>16</integer>
+</array>
+<key>ID</key>
+<string>brad_onemoretime</string>
+<key>text</key>
+<string>Could you try saying that one more time?</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-21T17:04:33Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+<integer>15</integer>
+</array>
+<key>ID</key>
+<string>brad_cansayagain</string>
+<key>text</key>
+<string>Can you say that again?</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>count</key>
+<real>1.0</real>
+<key>modified</key>
+<date>2012-09-21T15:48:54Z</date>
+<key>tokens</key>
+<array>
+<integer>17</integer>
+<integer>14</integer>
+</array>
+<key>ID</key>
+<string>brad_script_repeat</string>
+<key>text</key>
+<string>_please_repeat_that_repeat_</string>
+<key>speaker</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>text</key>
+<string>﻿1570 E. Colorado Blvd. Pasadena, CA 91106</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_LTXY</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The office phone number is (626) 585-7395 Mon to Thurs : 8:00 AM to 6:30 PM. Fri : 8:00 AM to 4:00 PM.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_17QF</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It’s located in the L building, room 113.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_8DOU</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Come to the Admissions and Records office in L-113 for helps with applying to PCC, registering for classes, submitting a petition or accessing your student records!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_DZD5</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It’s located in the L building, room 114.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_34H8</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The Office of Financial Aid and our knowledgeable advisers are here to help you find options to make your education affordable.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Q09I</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>We have BOGW Waiver(California Promise) for the free tuition, grants, scholarships, student loans, and work-study to help you succeed!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_H74Z</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>You can go to our PCC Website: https://pasadena.edu/ Click the “Admissions and Aid” section on the top; then, hit “Apply now” for more information.  If you have more questions, please come to Admission office in L-114 for more helps!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_1WHR</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>A high school graduate.  OR Not a high school graduate but over 18 years of age. OR A 12th-grade-or-below student who is recommended by the school principal for advanced academic or vocational classes</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_7KW0</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It depends on your residential status in California. For more information, please come to our Admission office in L-113. Or, please go to PCC website for more info: https://pasadena.edu/admissions-and-aid/admissions-and-records/fees-and-tuition/index.php</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_CUCU</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I feel great! I am glad that you are here: )</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_TU60</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It’s mostly Sunny(Enjoy the sunshine!), but it will be raining sometimes.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_VAHF</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I’m a Computer Science counselor, and I am here to answer your questions about PCC! Go Lancers!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_XILF</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The phone number is (626) 585-7401 Fax: (626) 585-7936 M - Th, 8 am - 6:30 pm  Friday, 8 am - 4 pm</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_W1F3</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>One piece of advice I would give to you for when you start looking at colleges is to be sure to look over and familiarize yourself with their admissions requirements.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Y502</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Colleges not only look at your grades, though ideally you would want to have a GPA around 3.4, they also look at the extra-curricular activities that you participate in</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_W56J</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Some of the tips I would give you for college are: Get to know your professors and talk to them! Do no procrastinate!!  Start your homeworks early and make a lot of friends : P</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_RY9C</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I would recommend that you study in the library, it is very quiet, there are plenty of seats, and there are restrooms on each floor!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_X2D6</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Some of my favorite study spots are at the library, the Math success center in R building, and the wifi-lounge by the cafeteria.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_57OW</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>We have Learning assistance Center in D-300, Computer-Learning in D-101,103,W-102, Math-Success center in R-406, Writing support centers in C-345, D-306, Social sciences learning center C-315, Speech center in D-302,  STEM Success centers in SV-23,24,25 and Music Labs in CA-002 to Help you out: D</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_Y1A5</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>The classes that you should take from the computer science department are: CS02, CS3A, CS03B or CS03C, CS 08</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_X84U</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>If you would like to apply for scholarships, you can either go online to https://pasadena.edu/foundation/applying-for-a-scholarship.php or visit the financial aid office in room L-114.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_VHH6</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Recent graduates have been accepted to many prestigious colleges such as UC Irvine, Syracuse University, Mt. Saint Mary's, Berkeley, Dartmouth, etcetera. You can be accepted too!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_5GEL</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>My favorite color is blue!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_L7PO</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>My favorite food is seafood! Especially sockeye salmon!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_7CPF</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It usually take 2 or 3 years to be transfered . Fight on!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_KNDX</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>You need to complete the math classes and GE requirements, and CS classes that are required by the universities you choose</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_5AOW</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>To succeed in the discipline, an aspiring student must seek to obtain a strong high school background in math and science, build strategic-thinking skills, develop strong oral and written communication skills and develop her/his ability to work in a team environment.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_HGKB</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Go for it! Everyone can be successful in Computer Science, including WOMEN! But it still depend on whether you like it or not : D</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_LZT7</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Computer Science is the study of computers and computational systems.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_0MDA</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>There are many different languages are used in computer science like c++, c, java, python etc.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_A4L6</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>There are many opportunities, like software engineer, computer game designer, etc. Average annual salary for a four-years university computer science graduated student is 84 thousands dollars.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_G1AK</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Computer engineering is a discipline that integrates several fields of computer science and electronics engineering required to develop computer hardware and software.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_HDDW</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>You need to MATH 007A to take CS002 class. Other than that, you are not required to take any specific courses before taking CS02. However, there is a CS01 Class that can help you be more familiar with Computer Science before you decide to take CS02.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_EYNX</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>To be more prepared for the CS classes, logical mind, good math knowledge, and good communication skills with others are recommended!! :P</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_FDPL</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Pasadena city college PCC is the best community college in Los Angeles.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_KWDI</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Generally, you will need to finish a sequence of Calculus classes( Ex: Math 5A,5B,5C..etc). If you are not able take calculus, then you can take trigonometry and other pre-calculus courses in PCC.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_65YK</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Our Math and Computer Science Division office is located in R building, room 322. M - Th, 8 am - 7:15 pm F, 8 am - 4:30 pm</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_52DS</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Our Contact number is: 626) 585-7251 M - Th, 8 am - 6:30 pm F, 8 am- 4 pm</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_GKFY</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>All professor are good, and they will help you understand Computer Science!</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_3B8I</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>In this class, you can learn about Problem-solving through structured programming of algorithms on computers using the basics of the C++ object-oriented language. Includes variables, expressions, input/output (I/O), branches, looping constructs, functions, argument passing, single and double dimensional arrays, strings, file I/O, C++ vectors, software design principles, testing, and debugging techniques.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_CA4Y</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>I will say that, try to start thinking about the Algorithms behind the program first and divide specific tasks into small modules before you actually code on the computer.  That way, you will spend much less time on debugging after you finishing coding.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_XVZL</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>We have Honors Program, MESA, Pathway, She.codes Club, Computer Science Club….etc. These are great programs that can help you succeed in Computer Science.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_MMZM</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Python is a good programing language for beginners. It is mostly for AI and Development of Applications.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_6I0Y</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>Most successful Computer Science students have demonstrated the ability to be flexible and adaptable (i.e. they MORPH well): P</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_X73H</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+<dict>
+<key>text</key>
+<string>It depends on your personal preferences and the university that you want to transfer to. Be aware of that some computer science courses will not count toward a Computer Science major for some colleges because they are not part of the degree requirements.</string>
+<key>speaker</key>
+<integer>0</integer>
+<key>ID</key>
+<string>brad_I4QC</string>
+<key>tokens</key>
+<array>
+<integer>16</integer>
+</array>
+<key>modified</key>
+<date>2019-05-24T15:20:58Z</date>
+</dict>
+</array>
+<key>answer_format</key>
+<string>edu.usc.ict.npc.editor.model.processor.text.TextProcessorProvider</string>
+<key>version</key>
+<integer>4</integer>
+<key>keepingLinkEstimatesUpdated</key>
+<false/>
+<key>searcherSessions</key>
+<array>
+<dict>
+<key>param</key>
+<string>0.7401220271802874 0.8923064360283753 -3.2767529487609863</string>
+<key>aid</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>dialog_manager</key>
+<dict>
+<key>param</key>
+<dict>
+<key>storedScriptFileName</key>
+<string>0</string>
+<key>scriptEngineName</key>
+<string>groovy</string>
+<key>useScriptFile</key>
+<false/>
+<key>scriptText</key>
+<string>// ============================================================================
+// dm.java
+// ============================================================================
+//
+//  Created by leuski on Aug 22, 2009.
+//  Copyright (c) 2009 Anton Leuski. All rights reserved.
+//
+// ============================================================================
+
+
+package edu.usc.ict.npc.editor.dialog.script.dm;
+
+import edu.usc.ict.npc.editor.dialog.script.*
+import java.awt.event.ActionListener
+import java.awt.event.ActionEvent;
+import javax.swing.Timer;
+
+class Global implements ActionListener {
+
+	public final static String	kConceal		= "conceal";
+	public final static String	kUnknown		= "unknown";
+	public final static String	kOpaque			= "opaque";
+	public final static String	kAlternative	= "alternative";
+	public final static String	kRepeat			= "repeat";
+	public final static String	kPrompt			= "prompt";
+
+	final static String kCharacterIgnore		= 'ignore';
+	final static Event	kInitiativeTimerEvent	= new Event(Event.kDispatchHint, "dm_prompt");
+	public final static int		kHistoryWindow			= 10;
+	final static double	kWaitBeforePrompt		= 5; // seconds
+
+	Engine	engine;
+	String	domainName = "Wizard npc";	
+
+	Regular		regularState;
+	State		currentState;
+	Interrupted interrupted;
+
+	Map&lt;String,Object&gt;		lastUtterance;
+	Event 					lastSpeechEvent;
+	boolean					microphoneEnabled;
+	long					lastUserStartedSpeaking;
+	long					lastUserStoppedSpeaking;
+	long					lastCharacterStoppedSpeaking;
+	long					lastCharacterStartedSpeaking;
+
+	Global(Engine inEngine) {
+		engine = inEngine;
+	}
+
+	public Set getPresentCharacters() {
+		return (Set)engine.context.presentCharacters;
+	}
+
+	public void reset() {
+		engine.reset();
+
+		// initialize global variables here		
+		clear();
+		domainName = "Wizard npc";
+		regularState	= new Regular(this);
+		interrupted		= new Interrupted(this);
+
+		enterState(regularState);
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		Timer	thisTimer	= (Timer)e.getSource();
+		if (engine.context.initiativeTimer != thisTimer) {
+			thisTimer.stop();
+			return;
+		}
+		engine?.postEvent(kInitiativeTimerEvent);
+	}
+
+	public void clear() {
+		engine.context.presentCharacters	= new HashSet();
+		lastUtterance	= null;
+		lastSpeechEvent	= null;
+
+		Timer	timer	= new Timer(1000, this);	// This timer will periodically trigger executor events 
+		timer.setRepeats(true);
+		timer.start();
+		engine.context.initiativeTimer = timer;
+	}
+
+	public void setMicrophoneEnabled(boolean inEnabled) {
+		if (microphoneEnabled == inEnabled) return;
+		microphoneEnabled	= inEnabled;
+		engine.send(inEnabled ? "TO_ASR &lt;start id=\"temp\"&gt;" : "TO_ASR &lt;stop id=\"temp\"&gt;");
+	}
+
+	public void exitState(State inTarget) {
+		inTarget?.onexit();
+		engine.removeTrigger(inTarget);
+	}
+
+	public void enterState(State inTarget) {
+		currentState	= inTarget;
+		engine.addTrigger(inTarget);
+		inTarget?.onentry();
+	}
+
+	public void transitionTo(State inTarget) {
+		exitState(currentState);
+		enterState(inTarget);
+	}
+}
+
+Global	global			= new Global(engine);
+
+public class State implements Trigger {
+
+	Global 		global;
+
+	Engine		getEngine() 				{ return global.engine; }	
+
+	State(Global inGlobal) {
+		global	= inGlobal;
+		global.setMicrophoneEnabled(true);
+		global.setMicrophoneEnabled(false);
+	}
+
+	public boolean handle(Event event) {
+
+//		System.out.println(event);
+
+		return false;
+	}
+
+	public boolean npcBehavior_done(Event event) {
+		global.lastCharacterStoppedSpeaking	= System.currentTimeMillis();
+		if (event?.utterance?.toss)
+			return handleToss(event);
+		return false;
+	}
+
+	public boolean handleToss(Event event) {
+		global.domainName 	= event.utterance.toss;
+		global.lastSpeechEvent	= null;
+//		System.out.println("Toss to " + global.domainName);
+		return false;
+	}
+
+	public boolean npcBehavior_begin(Event event) {
+		global.lastCharacterStartedSpeaking	= System.currentTimeMillis();
+		return false;
+	}
+	
+	public boolean vrSpeech_partial(Event inEvent) { return false; }
+
+	public boolean vrSpeech_start(Event event) {
+		global.lastUserStartedSpeaking	= System.currentTimeMillis();
+		return false;
+	}
+
+	public boolean vrSpeech_finished_speaking(Event event) {
+		global.lastUserStoppedSpeaking	= System.currentTimeMillis();
+		return false;
+	}
+
+	public boolean dm_prompt(Event event) {
+//		long currentTime	= System.currentTimeMillis();
+//
+//		if (global.lastCharacterStartedSpeaking &lt; global.lastCharacterStoppedSpeaking
+//			&amp;&amp; global.lastUserStartedSpeaking &lt; global.lastUserStoppedSpeaking
+//			&amp;&amp; (currentTime - global.lastCharacterStoppedSpeaking) &gt;= (Global.kWaitBeforePrompt * 1000)) {
+//
+//			List&lt;Map&lt;String,Object&gt;&gt; answers = engine.answersForCharacter(global.domainName).findAll( { Map&lt;String,Object&gt; utterance -&gt;
+//				utterance.type == Global.kPrompt }).toList();
+//			if (!answers.isEmpty()) {
+//				Collections.shuffle(answers);
+//				send(leastRecent(answers, Global.kHistoryWindow));
+//			}
+//		}
+
+		return false;
+	}
+
+	public Behavior send(Map&lt;String,Object&gt; inUtterance) {
+		if (inUtterance != null) {
+			if (inUtterance.script) {
+				global.lastUtterance	= null;
+				return engine.schedule(inUtterance);
+			} else {
+				global.lastUtterance	= inUtterance;
+				Behavior	b	= engine.schedule(inUtterance);
+				b.setLock(Behavior.kDefaultLock);
+				return b;
+			}
+		}
+
+		return engine.schedule(inUtterance);
+	}
+
+	protected Behavior sendRegular(Map&lt;String,Object&gt; inUtterance) {
+		return send(inUtterance);
+	}
+
+	public Map&lt;String,Object&gt; utteranceWithID(String inUtterance) {
+		return (Map&lt;String,Object&gt;)engine.answers().find({Map&lt;String,Object&gt; utterance -&gt; utterance.ID == inUtterance});
+	}
+
+	protected Map&lt;String,Object&gt; leastRecent(List&lt;Map&lt;String,Object&gt;&gt; inAnswers, int inDepth) {
+		def selectedUtterance	= null;
+		def	depth				= -1;
+		for(a in inAnswers) {
+			def d	= engine.seenRecently(a, inDepth);
+			if (d &gt; depth) {
+				depth				= d;
+				selectedUtterance	= a;
+				if (depth &gt;= inDepth) break;
+			}
+		}
+		return selectedUtterance;
+	}
+
+	protected void onexit() { }
+	protected void onentry() { }
+
+}
+
+public class Regular extends State {
+
+	int offTopicCount	= 0;
+
+	Regular(Global inGlobal) {
+		super(inGlobal);
+	}
+
+	public boolean handle(Event event) {
+		if (event.event == Event.kLockEventType &amp;&amp; event?.id == Behavior.kDefaultLock) {
+			global.setMicrophoneEnabled(engine.executor.canAcquireLock(Behavior.kDefaultLock));
+			return false;
+		} else if (event.text) {
+			return vrSpeech_asr_complete(event);
+		} else {
+			return super.handle(event);
+		}
+	}
+
+	protected Behavior sendOfftopic() {
+		++offTopicCount;
+		return send(randomOfftopic());
+	}
+
+	protected Behavior sendRegular(Map&lt;String, Object&gt; inUtterance) {
+		offTopicCount	= 0;
+		return super.sendRegular(inUtterance);
+	}
+
+	private Map&lt;String,Object&gt; randomOfftopic(String inOfftopicType) {
+		List&lt;Map&lt;String,Object&gt;&gt; answers = engine.answersForCharacter(global.domainName).findAll( { Map&lt;String,Object&gt; utterance -&gt;
+			utterance.type == inOfftopicType }).toList();
+		if (answers.isEmpty())
+		{
+			
+			answers = engine.answersForCharacter(global.domainName).findAll( { Map&lt;String,Object&gt; utterance -&gt;
+				utterance.type == Global.kOpaque || utterance.type == Global.kUnknown || utterance.type == Global.kConceal }).toList();							
+		}
+		Collections.shuffle(answers);
+		return leastRecent(answers, Global.kHistoryWindow);
+	}
+
+	private Map&lt;String,Object&gt; randomOfftopic() {
+		String							offTopicType	= Global.kConceal;
+		if (offTopicCount == 1) 		offTopicType	= Global.kOpaque;
+		else if (offTopicCount == 2) 	offTopicType	= Global.kUnknown;
+		return randomOfftopic(offTopicType);
+	}
+	
+	
+	public boolean vrSpeech_partial(Event inEvent){
+	
+		super.vrSpeech_partial(inEvent);	
+		
+		
+		if (!global.isMicrophoneEnabled()) 
+		{
+			engine.executor.pause();
+			global.transitionTo(global.interrupted);
+		}
+		
+	
+		return false;
+	
+	
+	}
+
+	public boolean vrSpeech_asr_complete(Event event) {
+
+		if (!event.text || ((String)event.text).trim().length() == 0) return false;
+
+		if (global.domainName == null)
+			global.domainName	= (String)event.speaker;
+
+//		if (!global.isMicrophoneEnabled()) return false;
+
+		try {
+			List&lt;Map&lt;String,Object&gt;&gt; 	answers				= engine.search(global.domainName, event);
+
+			if (answers.isEmpty()) {					
+				sendOfftopic();
+			} else {
+				Map&lt;String,Object&gt;			selectedUtterance = (Map)answers[0];
+
+				if (selectedUtterance.type == Global.kAlternative) {
+					if (!global.lastSpeechEvent) {
+						sendOfftopic();
+					} else {
+						offTopicCount	= 0;
+						return vrSpeech_asr_complete(global.lastSpeechEvent);
+					}
+					return false;
+				}
+
+				if (selectedUtterance.type == Global.kRepeat) {
+					if (!global.lastUtterance) {					
+						sendOfftopic();
+					} else {
+						engine.send("HOOGA BOOGA");			
+						sendRegular(global.lastUtterance);
+					}
+					return false;
+				}
+
+				global.lastSpeechEvent	= event;
+				sendRegular(leastRecent(answers,Global.kHistoryWindow));
+			}
+
+		} catch (Throwable t) {
+			t.printStackTrace();
+		}
+
+		return false;
+	}
+
+}
+
+
+class Interrupted extends State {
+	Interrupted(Global inGlobal) {
+		super(inGlobal);
+	}
+			
+
+	protected void onentry() {
+		
+		StopSpeakingAndRespondToNewQuestion();
+	}
+	
+
+
+	public boolean StopSpeakingAndRespondToNewQuestion() {
+
+		engine.executor.newExecutionState();	
+		global.transitionTo(global.regularState);
+		global.setMicrophoneEnabled(true);
+		
+		return false;
+	}
+	
+
+}
+
+
+
+global.reset();
+</string>
+</dict>
+<key>class</key>
+<string>edu.usc.ict.npc.editor.dialog.script.ScriptableDialogManager</string>
+</dict>
+<key>loggingConversations</key>
+<false/>
+<key>speakers</key>
+<array>
+<dict>
+<key>firstName</key>
+<string>Wizard</string>
+<key>lastName</key>
+<string>npc</string>
+<key>class</key>
+<string>edu.usc.ict.npc.editor.model.Person</string>
+</dict>
+</array>
+<key>evaluationFrameworkProvider</key>
+<dict>
+<key>class</key>
+<string>edu.usc.ict.npc.editor.model.EvaluationFrameworkProvider$MeanFScoreEvaluationFramework</string>
+</dict>
+<key>categories</key>
+<array>
+<dict>
+<key>chatEditingAllowed</key>
+<false/>
+<key>classifierCategory</key>
+<false/>
+<key>answerColumnVisible</key>
+<false/>
+<key>questionColumnVisible</key>
+<false/>
+<key>questionCategory</key>
+<true/>
+<key>name</key>
+<string>Train/Test</string>
+<key>readOnly</key>
+<true/>
+<key>tokens</key>
+<array>
+<dict>
+<key>name</key>
+<string>Training</string>
+<key>ID</key>
+<string>train</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>Development</string>
+<key>ID</key>
+<string>dev</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>Test</string>
+<key>ID</key>
+<string>test</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>ID</key>
+<string>train_test</string>
+<key>questionEditingAllowed</key>
+<false/>
+<key>answerEditingAllowed</key>
+<false/>
+<key>answerCategory</key>
+<false/>
+</dict>
+<dict>
+<key>chatEditingAllowed</key>
+<false/>
+<key>classifierCategory</key>
+<false/>
+<key>answerColumnVisible</key>
+<false/>
+<key>questionColumnVisible</key>
+<false/>
+<key>questionCategory</key>
+<false/>
+<key>name</key>
+<string>Dialog State</string>
+<key>readOnly</key>
+<true/>
+<key>tokens</key>
+<array>
+<dict>
+<key>name</key>
+<string>none</string>
+<key>description</key>
+<string>Do not change dialog state</string>
+<key>ID</key>
+<string>none</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>add</string>
+<key>description</key>
+<string>Add tokens for undefined categories to the state, do not change the existing categories</string>
+<key>ID</key>
+<string>add</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>set</string>
+<key>description</key>
+<string>Add tokens replacing existing category values</string>
+<key>ID</key>
+<string>set</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>reset</string>
+<key>description</key>
+<string>Clear dialog state and then set it to given tokens</string>
+<key>ID</key>
+<string>reset</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>ID</key>
+<string>dialogState</string>
+<key>questionEditingAllowed</key>
+<false/>
+<key>answerEditingAllowed</key>
+<false/>
+<key>answerCategory</key>
+<true/>
+</dict>
+<dict>
+<key>chatEditingAllowed</key>
+<false/>
+<key>classifierCategory</key>
+<false/>
+<key>answerColumnVisible</key>
+<false/>
+<key>questionColumnVisible</key>
+<false/>
+<key>questionCategory</key>
+<true/>
+<key>name</key>
+<string>Tone</string>
+<key>readOnly</key>
+<true/>
+<key>tokens</key>
+<array>
+<dict>
+<key>name</key>
+<string>Down</string>
+<key>ID</key>
+<string>down</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>Flat</string>
+<key>ID</key>
+<string>flat</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>Up</string>
+<key>ID</key>
+<string>up</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>ID</key>
+<string>tone</string>
+<key>questionEditingAllowed</key>
+<false/>
+<key>answerEditingAllowed</key>
+<false/>
+<key>answerCategory</key>
+<false/>
+</dict>
+<dict>
+<key>chatEditingAllowed</key>
+<false/>
+<key>classifierCategory</key>
+<false/>
+<key>answerColumnVisible</key>
+<false/>
+<key>questionColumnVisible</key>
+<false/>
+<key>questionCategory</key>
+<true/>
+<key>name</key>
+<string>Emotion</string>
+<key>readOnly</key>
+<true/>
+<key>tokens</key>
+<array>
+<dict>
+<key>name</key>
+<string>Neutral</string>
+<key>ID</key>
+<string>neutral</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>Negative</string>
+<key>ID</key>
+<string>negative</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>ID</key>
+<string>emotion</string>
+<key>questionEditingAllowed</key>
+<false/>
+<key>answerEditingAllowed</key>
+<false/>
+<key>answerCategory</key>
+<false/>
+</dict>
+<dict>
+<key>chatEditingAllowed</key>
+<false/>
+<key>classifierCategory</key>
+<false/>
+<key>answerColumnVisible</key>
+<false/>
+<key>questionColumnVisible</key>
+<false/>
+<key>questionCategory</key>
+<false/>
+<key>name</key>
+<string>Toss</string>
+<key>readOnly</key>
+<true/>
+<key>tokens</key>
+<array>
+<dict>
+<key>name</key>
+<string>Wizard npc</string>
+<key>description</key>
+<string></string>
+<key>ID</key>
+<string>Wizard npc</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>ID</key>
+<string>toss</string>
+<key>questionEditingAllowed</key>
+<false/>
+<key>answerEditingAllowed</key>
+<false/>
+<key>answerCategory</key>
+<true/>
+</dict>
+<dict>
+<key>chatEditingAllowed</key>
+<false/>
+<key>classifierCategory</key>
+<false/>
+<key>answerColumnVisible</key>
+<true/>
+<key>questionColumnVisible</key>
+<true/>
+<key>questionCategory</key>
+<false/>
+<key>name</key>
+<string>Type</string>
+<key>readOnly</key>
+<false/>
+<key>tokens</key>
+<array>
+<dict>
+<key>name</key>
+<string>opaque</string>
+<key>description</key>
+<string>opaque</string>
+<key>ID</key>
+<string>opaque</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>repeat</string>
+<key>description</key>
+<string>repeat</string>
+<key>ID</key>
+<string>repeat</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>conceal</string>
+<key>description</key>
+<string>conceal</string>
+<key>ID</key>
+<string>conceal</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>name</key>
+<string>unknown</string>
+<key>description</key>
+<string>unknown</string>
+<key>ID</key>
+<string>unknown</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>ID</key>
+<string>type</string>
+<key>questionEditingAllowed</key>
+<true/>
+<key>answerEditingAllowed</key>
+<true/>
+<key>answerCategory</key>
+<true/>
+</dict>
+<dict>
+<key>chatEditingAllowed</key>
+<false/>
+<key>classifierCategory</key>
+<false/>
+<key>answerColumnVisible</key>
+<true/>
+<key>questionColumnVisible</key>
+<true/>
+<key>questionCategory</key>
+<false/>
+<key>name</key>
+<string>speaker</string>
+<key>readOnly</key>
+<false/>
+<key>tokens</key>
+<array>
+<dict>
+<key>name</key>
+<string>Brad</string>
+<key>ID</key>
+<string>Brad</string>
+<key>colorAsInt</key>
+<integer>0</integer>
+</dict>
+</array>
+<key>ID</key>
+<string>speaker</string>
+<key>questionEditingAllowed</key>
+<true/>
+<key>answerEditingAllowed</key>
+<true/>
+<key>answerCategory</key>
+<true/>
+</dict>
+</array>
+<key>classifierProvider</key>
+<dict>
+<key>class</key>
+<string>edu.usc.ict.npc.editor.model.classifier.cl.Provider</string>
+</dict>
+<key>map</key>
+<array>
+<dict>
+<key>qid</key>
+<integer>0</integer>
+<key>aid</key>
+<integer>0</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>0</integer>
+<key>aid</key>
+<integer>1</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>0</integer>
+<key>aid</key>
+<integer>2</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>1</integer>
+<key>aid</key>
+<integer>0</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>1</integer>
+<key>aid</key>
+<integer>1</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>1</integer>
+<key>aid</key>
+<integer>2</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>2</integer>
+<key>aid</key>
+<integer>0</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>2</integer>
+<key>aid</key>
+<integer>1</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>3</integer>
+<key>aid</key>
+<integer>3</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>3</integer>
+<key>aid</key>
+<integer>4</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>4</integer>
+<key>aid</key>
+<integer>3</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>4</integer>
+<key>aid</key>
+<integer>4</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>5</integer>
+<key>aid</key>
+<integer>3</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>6</integer>
+<key>aid</key>
+<integer>3</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>6</integer>
+<key>aid</key>
+<integer>4</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>7</integer>
+<key>aid</key>
+<integer>3</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>7</integer>
+<key>aid</key>
+<integer>4</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>8</integer>
+<key>aid</key>
+<integer>5</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>8</integer>
+<key>aid</key>
+<integer>6</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>9</integer>
+<key>aid</key>
+<integer>5</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>9</integer>
+<key>aid</key>
+<integer>6</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>10</integer>
+<key>aid</key>
+<integer>5</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>10</integer>
+<key>aid</key>
+<integer>6</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>11</integer>
+<key>aid</key>
+<integer>10</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>12</integer>
+<key>aid</key>
+<integer>10</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>13</integer>
+<key>aid</key>
+<integer>11</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>18</integer>
+<key>aid</key>
+<integer>12</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>14</integer>
+<key>aid</key>
+<integer>11</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>15</integer>
+<key>aid</key>
+<integer>11</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>16</integer>
+<key>aid</key>
+<integer>11</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>17</integer>
+<key>aid</key>
+<integer>11</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>19</integer>
+<key>aid</key>
+<integer>13</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>20</integer>
+<key>aid</key>
+<integer>13</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>21</integer>
+<key>aid</key>
+<integer>13</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>22</integer>
+<key>aid</key>
+<integer>13</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>23</integer>
+<key>aid</key>
+<integer>13</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>24</integer>
+<key>aid</key>
+<integer>14</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>26</integer>
+<key>aid</key>
+<integer>15</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>27</integer>
+<key>aid</key>
+<integer>16</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>28</integer>
+<key>aid</key>
+<integer>17</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>29</integer>
+<key>aid</key>
+<integer>18</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>30</integer>
+<key>aid</key>
+<integer>19</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>31</integer>
+<key>aid</key>
+<integer>20</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>32</integer>
+<key>aid</key>
+<integer>20</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>33</integer>
+<key>aid</key>
+<integer>22</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>34</integer>
+<key>aid</key>
+<integer>23</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>35</integer>
+<key>aid</key>
+<integer>24</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>36</integer>
+<key>aid</key>
+<integer>25</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>37</integer>
+<key>aid</key>
+<integer>26</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>38</integer>
+<key>aid</key>
+<integer>27</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>39</integer>
+<key>aid</key>
+<integer>28</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>40</integer>
+<key>aid</key>
+<integer>29</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>41</integer>
+<key>aid</key>
+<integer>30</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>42</integer>
+<key>aid</key>
+<integer>31</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>43</integer>
+<key>aid</key>
+<integer>32</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>44</integer>
+<key>aid</key>
+<integer>34</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>45</integer>
+<key>aid</key>
+<integer>35</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>46</integer>
+<key>aid</key>
+<integer>36</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>47</integer>
+<key>aid</key>
+<integer>37</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>48</integer>
+<key>aid</key>
+<integer>38</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>49</integer>
+<key>aid</key>
+<integer>39</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>50</integer>
+<key>aid</key>
+<integer>40</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>51</integer>
+<key>aid</key>
+<integer>42</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>51</integer>
+<key>aid</key>
+<integer>41</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>52</integer>
+<key>aid</key>
+<integer>42</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>53</integer>
+<key>aid</key>
+<integer>43</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>54</integer>
+<key>aid</key>
+<integer>44</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>55</integer>
+<key>aid</key>
+<integer>45</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>56</integer>
+<key>aid</key>
+<integer>46</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>57</integer>
+<key>aid</key>
+<integer>47</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>58</integer>
+<key>aid</key>
+<integer>48</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>59</integer>
+<key>aid</key>
+<integer>49</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>60</integer>
+<key>aid</key>
+<integer>50</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>61</integer>
+<key>aid</key>
+<integer>51</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>62</integer>
+<key>aid</key>
+<integer>51</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>63</integer>
+<key>aid</key>
+<integer>52</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>64</integer>
+<key>aid</key>
+<integer>53</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>65</integer>
+<key>aid</key>
+<integer>54</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>66</integer>
+<key>aid</key>
+<integer>55</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+<dict>
+<key>qid</key>
+<integer>67</integer>
+<key>aid</key>
+<integer>56</integer>
+<key>value</key>
+<integer>6</integer>
+</dict>
+</array>
+</dict>
+</plist>
